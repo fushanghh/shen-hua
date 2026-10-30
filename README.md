@@ -7,3 +7,7 @@
 - 最新工程：`希腊引擎/`（百眼巨人阿耳戈斯，233 秒）；北欧范例：`北欧范例/`
 
 依赖：`pip install numpy opencv-python-headless cairocffi Pillow soundfile scipy`，以及 ffmpeg。
+
+
+## 三维风（`三维/`）
+代码建模真三维知识讲解片（VTK 离屏 PBR 渲染 + PIL 金线 HUD），范例《水运浑天》。说明见 [`三维/SKILL.md`](三维/SKILL.md)，样片 10 秒在 `三维/参考视频/`。依赖：`pip install vtk numpy pillow` + Mesa EGL。
